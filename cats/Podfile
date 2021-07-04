@@ -7,4 +7,20 @@ target 'cats' do
 
   # Pods for cats
 
+  # UI
+  pod 'SwiftPullToRefresh'
+  pod 'SkeletonView'
+  pod 'SwiftMessages’
+  pod 'Kingfisher'
+  pod 'FaveButton'
+
+  # Architecture
+  pod 'PromiseKit'
+  
+  # Network
+  pod 'Alamofire'
+  pod 'Moya'
+  pod 'Result'
+  pod 'SwiftyJSON'
+
 end

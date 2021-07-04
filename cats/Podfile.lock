@@ -1,3 +1,65 @@
-PODFILE CHECKSUM: ca37b62b0e7c2d63b4642a184736b26b4e68c4bc
+PODS:
+  - Alamofire (5.4.3)
+  - FaveButton (3.2.1)
+  - Kingfisher (6.3.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - PromiseKit (6.15.3):
+    - PromiseKit/CorePromise (= 6.15.3)
+    - PromiseKit/Foundation (= 6.15.3)
+    - PromiseKit/UIKit (= 6.15.3)
+  - PromiseKit/CorePromise (6.15.3)
+  - PromiseKit/Foundation (6.15.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.15.3):
+    - PromiseKit/CorePromise
+  - Result (5.0.0)
+  - SkeletonView (1.17.2)
+  - SwiftMessages (9.0.2):
+    - SwiftMessages/App (= 9.0.2)
+  - SwiftMessages/App (9.0.2)
+  - SwiftPullToRefresh (3.1.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FaveButton
+  - Kingfisher
+  - Moya
+  - PromiseKit
+  - Result
+  - SkeletonView
+  - SwiftMessages
+  - SwiftPullToRefresh
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FaveButton
+    - Kingfisher
+    - Moya
+    - PromiseKit
+    - Result
+    - SkeletonView
+    - SwiftMessages
+    - SwiftPullToRefresh
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  FaveButton: 93cfebf6030336fa7653fad2068c3152ed668b39
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  PromiseKit: 3b2b6995e51a954c46dbc550ce3da44fbfb563c5
+  Result: ed341d2f236af425b803e690e9bd8fd0a0cb7c5a
+  SkeletonView: 7aba21d10df8d0530189379ebe02e02a192d8132
+  SwiftMessages: 77b847d1405f99046ffbd0d856bc7d73e6892686
+  SwiftPullToRefresh: f61d67439c5b8d66420fe57193cab8c279398e7a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: b1d93685d001c772f15f8b7fe6f636e7fd5b1535
 
 COCOAPODS: 1.10.1
